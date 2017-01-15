@@ -1,0 +1,8 @@
+The "gun" problem from the NLEVP collection 
+(http://www.maths.manchester.ac.uk/our-research/research-groups/numerical-analysis-and-scientific-computing/numerical-analysis/software/nlevp/)
+can be converted to a polynomial eigenvalue problem by a change of variable. 
+See Appendix B in thesis.pdf for details. The eigenvalue computation
+is coded in gun.m.
+
+NOTES:
+- You will need the NLEVP toolbox installed and on your Matlab path.
